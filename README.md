@@ -1,4 +1,4 @@
-# SER_neural_net
+# SER-neural-net
 
 This repository contains my final project for a course in Machine Learning (Fall, 2021). 
 
