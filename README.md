@@ -2,7 +2,7 @@
 
 This repository contains my final project for a course in Machine Learning (Fall, 2021). Instructions for downloading all files, packages, programs, etc. are below.
 
-1. This project is demonstrated using a [Kupyter Notebook](https://jupyter.org/), which provides a means to run indivudal blocks of Python code in a sequential order. If you do not currently have
+1. This project is demonstrated using a [Jupyter Notebook](https://jupyter.org/), which provides a means to run individual blocks of Python code in a sequential order. If you do not currently have
 Python and Jupyter Notebook installed on your machine, I suggest downloading
 [Microsoft Visual Studio Code](https://code.visualstudio.com/). Next, [install Python](https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites). Then launch Visual Studio Code and install the Python and Jupyter extensions, which will allow you to run the Jupyter notebook.
 
