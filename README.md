@@ -1,6 +1,7 @@
 # SER-neural-net
 
-This repository contains my final project for a course in Machine Learning (Fall, 2021). Instructions for downloading all files, packages, programs, etc. are below.
+This repository contains my final project for a course in Machine Learning (Fall, 2021). The Jupyter notebook contains code to construct a neural netowrk used to classify audo samples as belonging to specific classes of emotions. 
+Instructions for downloading all files, packages, programs, etc. are below.
 
 1. This project is demonstrated using a [Jupyter Notebook](https://jupyter.org/), which provides a means to run individual blocks of Python code in a sequential order. If you do not currently have
 Python and Jupyter Notebook installed on your machine, I suggest downloading
